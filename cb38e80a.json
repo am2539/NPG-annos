@@ -4,6 +4,26 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "Victoria",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://storiiies-images.cogapp.com/iiif/2/1620898019993NPGAx131392.ptif",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1507.490478515625,1683.4215087890625,350.4498291015625,407.9310302734375"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#81f5e3b8-d157-48f3-858e-c4393e86b027"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "William I",
         "purpose": "commenting"
       }
