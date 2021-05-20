@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "William I",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://storiiies-images.cogapp.com/iiif/2/1620898019993NPGAx131392.ptif",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:276.2805480957031,357.645751953125,337.4701843261719,298.53131103515625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#2f778124-a549-4d91-882a-e7e5d75c2f1b"
+  }
+]
