@@ -1,6 +1,8 @@
 # NPG-annos
 Juncture repository
 
+<param ve-config banner="https://free.iiifhosting.com/iiif/a50b36d92153db8db436cff50ab37345ad482823e756d48585829e9a20cdc2c3/pct:0,52,100,38/full/0/gray.jpg" layout="vtl" title="Ginevra de' Benci" author="Leonardo da Vinci">
+
 ## Annotations
 
 X-radiography and infrared reflectography, done in conjunction with restoration done on the painting at the Gallery in 1991, revealed an underdrawing made from a preparatory sketch, as well as evidence of Leonardo's fingerprints in the surface of the paint. Leonardo may have been the first artist to use the technique of softening the surface or edges of forms with his fingers while the painting was still tacky.[^8]
