@@ -18,5 +18,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#2f778124-a549-4d91-882a-e7e5d75c2f1b"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "William 2",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://storiiies-images.cogapp.com/iiif/2/1620898019993NPGAx131392.ptif",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:705.7880249023438,360.3428039550781,268.02081298828125,262.9637756347656"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#ca37bbda-e1af-4bb2-9647-7831f60766f9"
   }
 ]
